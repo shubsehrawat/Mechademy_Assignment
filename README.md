@@ -15,11 +15,11 @@
          in outlier detection. The outlier data is removed with the IQR Analysis
     4. The next stpe is to do the MIN_MAX Scaling of the dataset.
     5. Implementation of the Machine Learning Algorithms :
-        Value of RMSE with "Decision Tree" :  1.8688808026920043 /////
-        Value of RMSE with "Randon Forest Classifier" :  1.3815592463986823 /////
-        Value of RMSE with "Linear Regression" :  2.205428729243894 /////
-        Value of RMSE with "Ridge Regression" :  2.2054305825835407 /////
-        Value of RMSE with "Rasso Regression" :  6.605390630958027 /////
-        Value of RMSE with "Elastic Net Regression" :  39.803686717662345 /////
+        Value of RMSE with "Decision Tree" :  1.8688808026920043 ///// 
+        Value of RMSE with "Randon Forest Classifier" :  1.3815592463986823 ///// 
+        Value of RMSE with "Linear Regression" :  2.205428729243894 ///// 
+        Value of RMSE with "Ridge Regression" :  2.2054305825835407 ///// 
+        Value of RMSE with "Rasso Regression" :  6.605390630958027 ///// 
+        Value of RMSE with "Elastic Net Regression" :  39.803686717662345 ///// 
             
   
